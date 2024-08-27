@@ -1,0 +1,10 @@
+/bin/
+/obj/
+/Debug/
+/Release/
+.vs/
+.vscode/
+*.suo
+*.ntvs*
+*.nupkg
+*.vspscc
